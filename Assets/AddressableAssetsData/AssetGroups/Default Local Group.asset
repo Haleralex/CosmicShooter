@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_GUID: 481925a07d337ad46bdc320f840d676d
+  m_SerializeEntries:
+  - m_GUID: b3721ea49976e284db6da56f53fa5ad1
+    m_Address: Assets/Project/Prefabs/RocketShip.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: baabb21fe69b6344fbe5b1aa79d1a4ed
+    m_Address: Assets/Project/Prefabs/RocketShip2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fdd9d5ffcc1364b49820746afb7d0f42
+    m_Address: Assets/Project/Prefabs/RocketShip3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: c580fd0d50ddd714c83f76e972ac53f3, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: aafb09f560905f449aae1bb0de61874d, type: 2}
+    - {fileID: 11400000, guid: 423b505f16c92f549b6f1a3552e1088d, type: 2}
